@@ -11,6 +11,8 @@
 }
 .navbar a{
     padding: 10px;
+    text-decoration: none;
+    color: #ffffff;
 }
 .center{
     text-align: center;
@@ -37,6 +39,7 @@
 }
 .About{
     text-align: center;
+    
     
 }
 .interests{
